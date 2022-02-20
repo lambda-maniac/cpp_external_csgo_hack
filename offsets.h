@@ -1,3 +1,5 @@
+// Taken from: https://github.com/frk1/hazedumper
+
 #pragma once
 
 #define cs_gamerules_data 0x0
