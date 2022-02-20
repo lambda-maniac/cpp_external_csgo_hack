@@ -1,0 +1,1 @@
+g++ -fpermissive main.cpp -o main.exe -lgdi32
