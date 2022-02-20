@@ -293,8 +293,6 @@ int main(void)
 {
     const HDC hdc = GetDC(mm.hWnd);
 
-    windowSize.__cout();
-
     while (!isKeyDown(VK_END))
     {
         if (isKeyDown(VK_SHIFT))
